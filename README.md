@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quickbd
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS(Nextjs 13)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8801916112075/www.quickbd.net
 
