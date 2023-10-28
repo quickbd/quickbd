@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md. Hasanat Zamil ownner of Quickbd.net
+- 👋 Hi, I’m Md. Hasanat Zamil and I am fullstacked web developer
 - 👀 I’m expert in Laravel
 - 🌱 I’m interested about React JS(Nextjs 13)
 - 💞️ I’m looking to collaborate on ...
