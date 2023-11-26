@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md. Hasanat Zamil and I am fullstacked web developer
+- 👋 Hi, I’m Md. Hasanat Zamil and I am Hybrid Fullstacked web Developer
 - 👀 I’m expert in Laravel
 - 🌱 I’m interested about Laravel, React JS(Nextjs 13), Prisma, Tailwind CSS for web application and Flutter for Mobile app development.
 - 💞️ I’m looking to collaborate on ...
