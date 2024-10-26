@@ -1,4 +1,4 @@
-<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=quickbd&show_icons=true&locale=en&layout=compact](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/353384995_10160779538409872_2809871423011530124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeGwgbk0t1a6xAnlkLE5bEHnfgts3kCM75Z-C2zeQIzvllNpyTYJkrEXGL_tWY4BkYk&_nc_ohc=3ix870CFwg8Q7kNvgHqE-uu&_nc_ht=scontent.fdac99-1.fna&_nc_gid=AvYETLX9oc5ZipFX7KO1uTH&oh=00_AYDaMwMO45op17nGmO1uHT-ajMlm3qZGBeX9h9PKFth_tA&oe=6722FD96)" alt="quickbd" />
+<img align="left" src="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/353384995_10160779538409872_2809871423011530124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeGwgbk0t1a6xAnlkLE5bEHnfgts3kCM75Z-C2zeQIzvllNpyTYJkrEXGL_tWY4BkYk&_nc_ohc=3ix870CFwg8Q7kNvgHqE-uu&_nc_ht=scontent.fdac99-1.fna&_nc_gid=AjP7ZQD6VMmL37DN78Z8che&oh=00_AYDFPrvQxbqIqxL6O2JArULFfNgMRUuPY8ZAmq__KmHUHA&oe=6722FD96" alt="quickbd" />
 
 - 👋 Hi, I’m Md. Hasanat Zamil and I am Hybrid Fullstacked web Developer
 - 👀 I’m expert in Laravel
