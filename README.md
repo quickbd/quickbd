@@ -30,3 +30,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quickbd&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/quickbd/contributions?format=svg&private=false)  
+
+ 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=quickbd)  
+
